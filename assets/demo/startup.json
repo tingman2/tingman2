@@ -1,33 +1,8 @@
 {
-  "title": "李思婷 · LISITING",
-  "mode": "GitHub 实际页面 · 导航操作",
-  "notes": "GitHub 公开主页与项目仓库的实际导航画面。",
-  "source": "work/demo-production/captures/tingman2",
+  "style": "全画幅实际界面操作录制，无宣传外框或模拟点击",
   "capture_date": "2026-10-10",
-  "editorial_effects": [
-    "browser frame",
-    "startup reveal",
-    "camera focus",
-    "click cue",
-    "captions",
-    "loop"
-  ],
-  "timing": "剪辑后的展示节奏，不代表真实处理耗时",
-  "steps": [
-    {
-      "capture": "01-profile.png",
-      "action": "打开 GitHub 主页",
-      "caption": "进入公开个人主页"
-    },
-    {
-      "capture": "02-about.png",
-      "action": "浏览自我介绍",
-      "caption": "了解 AI 产品、设计与 Agent 工作流"
-    },
-    {
-      "capture": "04-open-repo.png",
-      "action": "打开项目仓库",
-      "caption": "进入萤火源码仓库"
-    }
-  ]
+  "frames": 38,
+  "duration_seconds": 11.8,
+  "timing": "输入与阅读停留经过剪辑，不代表实际模型耗时",
+  "notes": "GitHub 公开主页与小伴公开展示仓库的实际导航：自我介绍 → 精选项目 → 产品介绍。"
 }
