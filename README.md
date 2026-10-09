@@ -21,6 +21,16 @@
 
 ---
 
+## 动态项目导览
+
+<p align="center">
+  <a href="assets/demo/demo.mp4"><img src="assets/demo/preview.gif" width="720" alt="李思婷 · LISITING 动态导览"></a>
+</p>
+
+[观看 / 下载完整视频](assets/demo/demo.mp4) · [素材来源](assets/demo/sources.json)
+
+演示为仓库文档与源码的动态导览，非产品操作录屏。
+
 ## 关于我
 
 <img src="assets/about-me.svg" width="960" alt="李思婷 · LISITING｜AI 产品、设计与 Agent 工作流。从一个小需求开始，让 AI 真正进入工作流。亲手做原型、跑真实反馈，关注 AI 价值、人工介入与效果评估。">

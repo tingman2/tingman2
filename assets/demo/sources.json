@@ -1,0 +1,23 @@
+{
+  "title": "李思婷 · LISITING",
+  "duration_seconds": 9,
+  "fps": 8,
+  "scenes": [
+    {
+      "scene": "关于我",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "精选项目",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "AI Skills",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    }
+  ],
+  "note": "Existing repository material; no live model calls or production availability claim."
+}
