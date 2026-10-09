@@ -36,6 +36,10 @@
 <td width="50%"><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling.svg" alt="贸灵 · AI 运营看板" width="440"></a></td>
 <td width="50%"><a href="https://github.com/tingman2/viralpilot"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/tingman2/xiaoban"><img src="assets/project-xiaoban.svg" alt="小伴 · 智能宠物陪伴与离家看护" width="440"></a></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ## AI Skills

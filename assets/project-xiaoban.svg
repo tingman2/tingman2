@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" role="img" aria-label="小伴 · Xiaoban">
+<rect x="1" y="1" width="438" height="198" rx="14" fill="#ffffff" stroke="#e4e9e7" stroke-width="2"/>
+<g transform="translate(-5,-4) scale(0.75)"><rect x="32" y="30" width="54" height="54" rx="15" fill="#ffe8ed"/><g fill="#b6677a"><ellipse cx="59" cy="65" rx="11" ry="8"/><ellipse cx="46" cy="53" rx="4" ry="6" transform="rotate(-25 46 53)"/><ellipse cx="55" cy="46" rx="4" ry="6"/><ellipse cx="65" cy="46" rx="4" ry="6"/><ellipse cx="74" cy="54" rx="4" ry="6" transform="rotate(25 74 54)"/></g></g>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="70" y="44" font-size="22" font-weight="650" fill="#202a26">小伴 · Xiaoban</text>
+<text x="20" y="86" font-size="18" fill="#616b66">智能宠物陪伴，</text>
+<text x="20" y="111" font-size="18" fill="#616b66">让离家看护更安心。</text>
+<text x="20" y="139" font-size="15" fill="#748079">AI 产品 · 宠物陪伴 · 隐私设计</text>
+<text x="20" y="178" font-size="17" fill="#39765e">查看项目</text>
+</g><path d="M391 173h25m-8-8 8 8-8 8" fill="none" stroke="#39765e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
