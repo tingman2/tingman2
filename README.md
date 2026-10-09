@@ -31,11 +31,16 @@
 
 ## 精选项目
 
-<a href="https://github.com/tingman2/yinghuo-source"><img src="assets/project-yinghuo.svg" alt="萤火 · YingHuo：从脚本与分镜，到参考图生成与视频制作。 Web · Next.js · FastAPI。查看项目" width="960"></a>
-
-<a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解：拆解设计 Agent 的用户旅程、编排架构与模型路由。 产品分析 · Agent 架构 · 模型评测。查看项目" width="960"></a>
-
-<a href="https://github.com/tingman2/UI-Portfolio"><img src="assets/project-ui-portfolio.svg" alt="UI 作品集：展示 UI 与产品界面设计，探索体验与视觉表达。 UI Design · 产品设计 · Web。查看项目" width="960"></a>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/tingman2/yinghuo-source"><img src="assets/project-yinghuo.svg" alt="萤火 · YingHuo" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解" width="440"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/tingman2/UI-Portfolio"><img src="assets/project-ui-portfolio.svg" alt="UI 作品集" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/viralpilot"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
+</tr>
+</table>
 
 ## 微信公众号文章
 
