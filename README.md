@@ -38,6 +38,27 @@
 </tr>
 </table>
 
+## AI Skills
+
+把产品分析、设计与创作方法沉淀为可复用的 AI 工作流。
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/tingman2/codex-skills/blob/main/product-design/agent-suite/SKILL.md"><img src="assets/skill-agent-suite.svg" alt="Agent Suite：从产品需求到创作执行，按任务组织 AI 工作流。" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/codex-skills/blob/main/product-design/product-teardown/SKILL.md"><img src="assets/skill-product-teardown.svg" alt="产品拆解：从体验与证据出发，分析产品结构与关键流程。" width="440"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/tingman2/codex-skills/blob/main/product-design/doubao-design-library/SKILL.md"><img src="assets/skill-doubao-design-library.svg" alt="豆包设计库：统一设计风格、组件与配色，支持界面设计与原型构建。" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/codex-skills/blob/main/writing-creation/human-writing/SKILL.md"><img src="assets/skill-human-writing.svg" alt="中文写作：覆盖文章创作与改稿，让表达清楚、自然、有观点。" width="440"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/tingman2/codex-skills/blob/main/writing-creation/ecommerce-visual-copywriting/SKILL.md"><img src="assets/skill-ecommerce-visual-copywriting.svg" alt="电商视觉文案：整理商品卖点与视觉结构，规划主图和详情页内容。" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/codex-skills/blob/main/writing-creation/hypit/SKILL.md"><img src="assets/skill-hypit.svg" alt="Hypit 视频创作：围绕创意与镜头表达，组织视频制作工作流。" width="440"></a></td>
+</tr>
+</table>
+
+[浏览全部 Skills →](https://github.com/tingman2/codex-skills)
+
 ## 微信公众号文章
 
 - [同一个 AI，换个 Harness 就像换了个脑子？](https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg)
