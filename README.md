@@ -2,8 +2,6 @@
   <samp>
     <b>李思婷 · LISITING</b><br><br>
     <img src="assets/motto.svg" alt="AI 产品探索者・从一个小需求开始，跑通再放大" width="720" height="32"><br><br>
-    <a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/">贸灵</a>
-    &nbsp;·&nbsp;
     <a href="https://github.com/tingman2?tab=repositories">项目</a>
     &nbsp;·&nbsp;
     <a href="https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg">微信公众号</a>
@@ -35,7 +33,7 @@
 <td width="50%"><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解" width="440"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/tingman2/UI-Portfolio"><img src="assets/project-ui-portfolio.svg" alt="UI 作品集" width="440"></a></td>
+<td width="50%"><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling.svg" alt="贸灵 · AI 运营看板" width="440"></a></td>
 <td width="50%"><a href="https://github.com/tingman2/viralpilot"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
 </tr>
 </table>
