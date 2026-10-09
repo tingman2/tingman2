@@ -31,16 +31,6 @@ GitHub 公开主页与项目仓库的实际导航画面。 画面加入启动转
 
 ---
 
-## 启动与操作演示
-
-<p align="center">
-  <a href="assets/demo/startup.mp4"><img src="assets/demo/startup.gif" width="640" alt="李思婷 · LISITING 启动与操作演示"></a>
-</p>
-
-[观看 / 下载完整视频](assets/demo/startup.mp4) · [演示说明](assets/demo/startup.json)
-
-GitHub 公开主页与项目仓库的实际导航画面。 画面加入启动转场、镜头移动与操作字幕；展示节奏经过剪辑，不代表真实处理耗时。
-
 ## 关于我
 
 <img src="assets/about-me.svg" width="960" alt="李思婷 · LISITING｜AI 产品、设计与 Agent 工作流。从一个小需求开始，让 AI 真正进入工作流。亲手做原型、跑真实反馈，关注 AI 价值、人工介入与效果评估。">
