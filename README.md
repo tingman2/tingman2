@@ -39,15 +39,15 @@ GitHub 公开主页与项目仓库的实际导航画面。 画面加入启动转
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/tingman2/yinghuo-source"><img src="assets/project-yinghuo.svg" alt="萤火 · YingHuo" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/yinghuo-md"><img src="assets/project-yinghuo.svg" alt="萤火 · YingHuo" width="440"></a></td>
 <td width="50%"><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解" width="440"></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling.svg" alt="贸灵 · AI 运营看板" width="440"></a></td>
-<td width="50%"><a href="https://github.com/tingman2/viralpilot"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/viralpilot-showcase"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/tingman2/xiaoban"><img src="assets/project-xiaoban.svg" alt="小伴 · 智能宠物陪伴与离家看护" width="440"></a></td>
+<td width="50%"><a href="https://github.com/tingman2/xiaoban-showcase"><img src="assets/project-xiaoban.svg" alt="小伴 · 智能宠物陪伴与离家看护" width="440"></a></td>
 <td width="50%"></td>
 </tr>
 </table>
