@@ -21,15 +21,15 @@
 
 ---
 
-## 动态项目导览
+## 操作流程演示
 
 <p align="center">
-  <a href="assets/demo/demo.mp4"><img src="assets/demo/preview.gif" width="720" alt="李思婷 · LISITING 动态导览"></a>
+  <a href="assets/demo/workflow.mp4"><img src="assets/demo/workflow.gif" width="720" alt="李思婷 · LISITING 操作流程"></a>
 </p>
 
-[观看 / 下载完整视频](assets/demo/demo.mp4) · [素材来源](assets/demo/sources.json)
+[观看 / 下载完整视频](assets/demo/workflow.mp4) · [流程说明](assets/demo/workflow.json)
 
-演示为仓库文档与源码的动态导览，非产品操作录屏。
+此 GIF 为项目对应的操作流程示意，逐步展示任务顺序；不是实机点击录屏，功能可用性以项目说明和验收状态为准。
 
 ## 关于我
 

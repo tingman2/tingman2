@@ -1,0 +1,22 @@
+{
+  "title": "个人主页",
+  "type": "操作流程示意，非实机录屏",
+  "steps": [
+    {
+      "action": "阅读个人介绍",
+      "description": "了解产品与设计方向"
+    },
+    {
+      "action": "浏览精选项目",
+      "description": "点击项目卡片进入仓库"
+    },
+    {
+      "action": "查看 AI Skills",
+      "description": "打开 Skill 文件或集合"
+    },
+    {
+      "action": "选择联系方式",
+      "description": "通过邮箱或微信交流"
+    }
+  ]
+}
