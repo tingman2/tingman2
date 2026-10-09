@@ -59,5 +59,6 @@
 | 小红书 | [访问我的小红书](https://xhslink.cn/o/4ObGu88exMA) |
 | 人人都是产品经理 | [查看我的文章](https://www.woshipm.com/u/1686773) |
 | 个人网站 | [李思婷 · LISITING](https://lisiting-personal-portfolio.a1984114944.chatgpt.site/) |
-| 邮箱 | [a1984114944@gmail.com](mailto:a1984114944@gmail.com) |
+| 微信 | `S174573` |
+| 邮箱 | [13167935293@163.com](mailto:13167935293@163.com) |
 
