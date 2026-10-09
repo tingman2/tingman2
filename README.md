@@ -29,15 +29,15 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/tingman2/yinghuo-md"><img src="assets/project-yinghuo.svg" alt="萤火 · YingHuo" width="440"></a></td>
-<td width="50%"><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解" width="440"></a></td>
+<td width="50%"><p><img align="right" src="assets/experience-pending.svg" alt="体验 · 待上线（尚未提供体验网址）" width="112" height="32"><img src="assets/project-yinghuo-icon.svg" alt="" width="32" height="32"> <strong>萤火 · YingHuo</strong></p><a href="https://github.com/tingman2/yinghuo-md"><img src="assets/project-yinghuo-body.svg" alt="萤火 · YingHuo · 查看项目" width="440"></a></td>
+<td width="50%"><p><img align="right" src="assets/experience-pending.svg" alt="体验 · 待上线（尚未提供体验网址）" width="112" height="32"><img src="assets/project-lovart-icon.svg" alt="" width="32" height="32"> <strong>Lovart 产品拆解</strong></p><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart-body.svg" alt="Lovart 产品拆解 · 查看项目" width="440"></a></td>
 </tr>
 <tr>
-<td width="50%"><p><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img align="right" src="assets/experience-entry.svg" alt="体验 →（需登录 ChatGPT）" width="76" height="32"></a><strong>📊 贸灵 · Maoling</strong></p><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling-body.svg" alt="贸灵 · AI 运营看板，探索业务数据与运营工作流。查看项目" width="440"></a></td>
-<td width="50%"><a href="https://github.com/tingman2/viralpilot-showcase"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
+<td width="50%"><p><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img align="right" src="assets/experience-entry.svg" alt="体验 →（需登录 ChatGPT）" width="76" height="32"></a><img src="assets/project-maoling-icon.svg" alt="" width="32" height="32"> <strong>贸灵 · Maoling</strong></p><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling-body.svg" alt="贸灵 · Maoling · 查看项目" width="440"></a></td>
+<td width="50%"><p><img align="right" src="assets/experience-pending.svg" alt="体验 · 待上线（尚未提供体验网址）" width="112" height="32"><img src="assets/project-viralpilot-icon.svg" alt="" width="32" height="32"> <strong>ViralPilot</strong></p><a href="https://github.com/tingman2/viralpilot-showcase"><img src="assets/project-viralpilot-body.svg" alt="ViralPilot · 查看项目" width="440"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/tingman2/xiaoban-showcase"><img src="assets/project-xiaoban.svg" alt="小伴 · 智能宠物陪伴与离家看护" width="440"></a></td>
+<td width="50%"><p><img align="right" src="assets/experience-pending.svg" alt="体验 · 待上线（尚未提供体验网址）" width="112" height="32"><img src="assets/project-xiaoban-icon.svg" alt="" width="32" height="32"> <strong>小伴 · Xiaoban</strong></p><a href="https://github.com/tingman2/xiaoban-showcase"><img src="assets/project-xiaoban-body.svg" alt="小伴 · Xiaoban · 查看项目" width="440"></a></td>
 <td width="50%"></td>
 </tr>
 </table>

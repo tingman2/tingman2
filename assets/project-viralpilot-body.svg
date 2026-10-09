@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 50 440 150" role="img" aria-label="贸灵 · Maoling">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 50 440 150" role="img" aria-label="ViralPilot">
 <rect x="1" y="51" width="438" height="148" rx="14" fill="#ffffff" stroke="#e4e9e7" stroke-width="2" />
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,PingFang SC,Microsoft YaHei,sans-serif">
-<text x="20" y="86" font-size="18" fill="#616b66">AI 运营看板，</text>
-<text x="20" y="111" font-size="18" fill="#616b66">探索业务数据与运营工作流。</text>
-<text x="20" y="139" font-size="15" fill="#748079">AI 产品 · 运营 · Web</text>
+<text x="20" y="86" font-size="18" fill="#616b66">商品生成带货文案，</text>
+<text x="20" y="111" font-size="18" fill="#616b66">支持多版本与对话改稿。</text>
+<text x="20" y="139" font-size="15" fill="#748079">Next.js · FastAPI · SQLite</text>
 <text x="20" y="178" font-size="17" fill="#39765e">查看项目</text>
 </g><path d="M391 173h25m-8-8 8 8-8 8" fill="none" stroke="#39765e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
