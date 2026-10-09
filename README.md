@@ -1,13 +1,3 @@
-## 界面操作演示
-
-<p align="center">
-  <a href="assets/demo/startup.mp4"><img src="assets/demo/startup.gif" width="960" alt="李思婷 · LISITING 启动与操作演示"></a>
-</p>
-
-[观看 / 下载完整视频](assets/demo/startup.mp4) · [演示说明](assets/demo/startup.json)
-
-GitHub 公开主页与小伴公开展示仓库的实际导航：自我介绍 → 精选项目 → 产品介绍。 画面按操作顺序录制，阅读停留经过剪辑。
-
 <p align="center">
   <samp>
     <b>李思婷 · LISITING</b><br><br>
