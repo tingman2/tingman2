@@ -30,19 +30,15 @@
 <table>
 <tr>
 <td width="50%"><p><a href="https://lisiting-project-experiences.a1984114944.chatgpt.site/yinghuo/"><img align="right" src="assets/experience-entry.svg" alt="体验 →" width="76" height="32"></a><img src="assets/project-yinghuo-icon.svg" alt="" width="32" height="32"> <strong>萤火 · YingHuo</strong></p><a href="https://github.com/tingman2/yinghuo-md"><img src="assets/project-yinghuo-body.svg" alt="萤火 · YingHuo · 查看项目" width="440"></a></td>
-<td width="50%"><p><a href="https://lisiting-project-experiences.a1984114944.chatgpt.site/lovart/"><img align="right" src="assets/experience-entry.svg" alt="体验 →" width="76" height="32"></a><img src="assets/project-lovart-icon.svg" alt="" width="32" height="32"> <strong>Lovart 产品拆解</strong></p><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart-body.svg" alt="Lovart 产品拆解 · 查看项目" width="440"></a></td>
-</tr>
-<tr>
 <td width="50%"><p><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img align="right" src="assets/experience-entry.svg" alt="体验 →（需登录 ChatGPT）" width="76" height="32"></a><img src="assets/project-maoling-icon.svg" alt="" width="32" height="32"> <strong>贸灵 · Maoling</strong></p><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling-body.svg" alt="贸灵 · Maoling · 查看项目" width="440"></a></td>
-<td width="50%"><p><a href="https://lisiting-project-experiences.a1984114944.chatgpt.site/viralpilot/demo/workspace/"><img align="right" src="assets/experience-entry.svg" alt="体验 →" width="76" height="32"></a><img src="assets/project-viralpilot-icon.svg" alt="" width="32" height="32"> <strong>ViralPilot</strong></p><a href="https://github.com/tingman2/viralpilot-showcase"><img src="assets/project-viralpilot-body.svg" alt="ViralPilot · 查看项目" width="440"></a></td>
 </tr>
 <tr>
+<td width="50%"><p><a href="https://lisiting-project-experiences.a1984114944.chatgpt.site/viralpilot/demo/workspace/"><img align="right" src="assets/experience-entry.svg" alt="体验 →" width="76" height="32"></a><img src="assets/project-viralpilot-icon.svg" alt="" width="32" height="32"> <strong>ViralPilot</strong></p><a href="https://github.com/tingman2/viralpilot-showcase"><img src="assets/project-viralpilot-body.svg" alt="ViralPilot · 查看项目" width="440"></a></td>
 <td width="50%"><p><a href="https://lisiting-project-experiences.a1984114944.chatgpt.site/xiaoban/"><img align="right" src="assets/experience-entry.svg" alt="体验 →" width="76" height="32"></a><img src="assets/project-xiaoban-icon.svg" alt="" width="32" height="32"> <strong>小伴 · Xiaoban</strong></p><a href="https://github.com/tingman2/xiaoban-showcase"><img src="assets/project-xiaoban-body.svg" alt="小伴 · Xiaoban · 查看项目" width="440"></a></td>
-<td width="50%"></td>
 </tr>
 </table>
 
-<sub>萤火、ViralPilot、小伴为交互演示，AI 与设备使用模拟数据；Lovart 打开拆解报告，贸灵需登录 ChatGPT。</sub>
+<sub>萤火、ViralPilot、小伴为交互演示，AI 与设备使用模拟数据；贸灵需登录 ChatGPT。</sub>
 
 ## AI Skills
 
