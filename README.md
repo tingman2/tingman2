@@ -1,3 +1,13 @@
+## 启动与操作演示
+
+<p align="center">
+  <a href="assets/demo/startup.mp4"><img src="assets/demo/startup.gif" width="640" alt="李思婷 · LISITING 启动与操作演示"></a>
+</p>
+
+[观看 / 下载完整视频](assets/demo/startup.mp4) · [演示说明](assets/demo/startup.json)
+
+GitHub 公开主页与项目仓库的实际导航画面。 画面加入启动转场、镜头移动与操作字幕；展示节奏经过剪辑，不代表真实处理耗时。
+
 <p align="center">
   <samp>
     <b>李思婷 · LISITING</b><br><br>
@@ -21,15 +31,15 @@
 
 ---
 
-## 操作流程演示
+## 启动与操作演示
 
 <p align="center">
-  <a href="assets/demo/workflow.mp4"><img src="assets/demo/workflow.gif" width="720" alt="李思婷 · LISITING 操作流程"></a>
+  <a href="assets/demo/startup.mp4"><img src="assets/demo/startup.gif" width="640" alt="李思婷 · LISITING 启动与操作演示"></a>
 </p>
 
-[观看 / 下载完整视频](assets/demo/workflow.mp4) · [流程说明](assets/demo/workflow.json)
+[观看 / 下载完整视频](assets/demo/startup.mp4) · [演示说明](assets/demo/startup.json)
 
-此 GIF 为项目对应的操作流程示意，逐步展示任务顺序；不是实机点击录屏，功能可用性以项目说明和验收状态为准。
+GitHub 公开主页与项目仓库的实际导航画面。 画面加入启动转场、镜头移动与操作字幕；展示节奏经过剪辑，不代表真实处理耗时。
 
 ## 关于我
 
