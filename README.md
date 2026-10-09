@@ -33,7 +33,7 @@
 <td width="50%"><a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解" width="440"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling.svg" alt="贸灵 · AI 运营看板" width="440"></a></td>
+<td width="50%"><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/"><img src="assets/project-maoling.svg" alt="贸灵 · AI 运营看板" width="440"></a><p align="center"><a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/">体验 →</a><br><sub>需登录 ChatGPT</sub></p></td>
 <td width="50%"><a href="https://github.com/tingman2/viralpilot-showcase"><img src="assets/project-viralpilot.svg" alt="ViralPilot" width="440"></a></td>
 </tr>
 <tr>
