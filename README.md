@@ -54,13 +54,8 @@
 
 | 平台 | 入口 |
 | --- | --- |
-| 微信公众号 | [阅读文章 · 扫码关注](https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg) |
 | 小红书 | [访问我的小红书](https://xhslink.cn/o/4ObGu88exMA) |
 | 人人都是产品经理 | [查看我的文章](https://www.woshipm.com/u/1686773) |
 | 个人网站 | [李思婷 · LISITING](https://lisiting-personal-portfolio.a1984114944.chatgpt.site/) |
 | 邮箱 | [a1984114944@gmail.com](mailto:a1984114944@gmail.com) |
 
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg"><img src="assets/wechat-qr.jpg" width="156" alt="微信公众号二维码"></a><br>
-  <sub>扫码关注微信公众号，或点击二维码阅读文章</sub>
-</p>
