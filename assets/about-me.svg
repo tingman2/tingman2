@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-label="李思婷 LISITING，AI 产品与设计">
+<rect x="1" y="1" width="958" height="328" rx="18" fill="#f7faf8" stroke="#e2ebe5"/>
+<rect x="32" y="35" width="5" height="88" rx="2.5" fill="#4b9271"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="53" y="57" fill="#6c8175" font-size="13" letter-spacing="3">ABOUT ME</text>
+<text x="50" y="112" fill="#202d25" font-size="48" font-weight="750">李思婷</text>
+<text x="219" y="108" fill="#6a7c70" font-size="21" letter-spacing="3">LISITING</text>
+<rect x="650" y="55" width="258" height="35" rx="17.5" fill="#e7f1eb"/>
+<text x="779" y="78" text-anchor="middle" fill="#3e7156" font-size="15">AI 产品 · 设计 · Agent 工作流</text>
+<text x="34" y="160" fill="#2f493b" font-size="23" font-weight="600">从一个小需求开始，让 AI 真正进入工作流。</text>
+<path d="M34 184h892" stroke="#e0e9e3"/>
+<text x="34" y="218" fill="#4e5c53" font-size="17">我更在意：技术进来之后，用户的生活或工作有没有变好。</text>
+<text x="34" y="247" fill="#4e5c53" font-size="17">亲手做原型、跑真实反馈，再决定值不值得继续投入。</text>
+<text x="34" y="288" fill="#6c7b71" font-size="16">这里记录我的项目、踩过的坑，以及关于 AI 价值、人工介入与效果评估的思考。</text>
+</g>
+</svg>
