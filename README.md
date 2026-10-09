@@ -4,7 +4,7 @@
     <img src="assets/motto.svg" alt="AI 产品探索者・从一个小需求开始，跑通再放大" width="720" height="32"><br><br>
     <a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/">贸灵</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/tingman-ship-t?tab=repositories">项目</a>
+    <a href="https://github.com/tingman2?tab=repositories">项目</a>
     &nbsp;·&nbsp;
     <a href="https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg">微信公众号</a>
     &nbsp;·&nbsp;
@@ -31,10 +31,11 @@
 
 ## 精选项目
 
-| 项目 | 简介 |
-| --- | --- |
-| [Lovart 产品拆解](https://github.com/tingman-ship-t/lovart-product-teardown) | 设计 Agent 的用户旅程、编排架构、模型路由与优化蓝图 |
-| [UI 作品集](https://github.com/tingman-ship-t/UI-Portfolio) | UI 与产品界面设计作品集 |
+<a href="https://github.com/tingman2/yinghuo-source"><img src="assets/project-yinghuo.svg" alt="萤火 · YingHuo：从脚本与分镜，到参考图生成与视频制作。 Web · Next.js · FastAPI。查看项目" width="960"></a>
+
+<a href="https://github.com/tingman2/lovart-product-teardown"><img src="assets/project-lovart.svg" alt="Lovart 产品拆解：拆解设计 Agent 的用户旅程、编排架构与模型路由。 产品分析 · Agent 架构 · 模型评测。查看项目" width="960"></a>
+
+<a href="https://github.com/tingman2/UI-Portfolio"><img src="assets/project-ui-portfolio.svg" alt="UI 作品集：展示 UI 与产品界面设计，探索体验与视觉表达。 UI Design · 产品设计 · Web。查看项目" width="960"></a>
 
 ## 微信公众号文章
 
